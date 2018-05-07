@@ -1,0 +1,17 @@
+.product-container img{
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+.shop_desc {
+    border: 1px solid #E0E0E0;
+    padding: 5%;
+}
+.shop_desc h3 {
+    margin-bottom: 5px;
+}
+span.actual {
+    color: #7DB122;
+    font-size: 1em;
+    color: #000;
+}
