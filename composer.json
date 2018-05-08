@@ -10,7 +10,8 @@
         "laravel/framework": "5.6.*",
         "laravel/tinker": "^1.0",
         "pragmarx/version": "^0.2.7",
-        "rocket-code/shopify": "2.*"
+        "rocket-code/shopify": "2.*",
+		"mpociot/versionable": "~2.0"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
